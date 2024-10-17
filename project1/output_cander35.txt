@@ -1,0 +1,803 @@
+Program: csv_DumbSAT.py
+Input File: kSAT_input_cander35.cnf.csv
+
+1: 4 variables - Satisfiable: False, Time: 36 microseconds
+No satisfying assignment found.
+2: 4 variables - Satisfiable: True, Time: 19 microseconds
+Assignment: {1: 0, 2: 1, 3: 1, 4: 1}
+3: 4 variables - Satisfiable: False, Time: 22 microseconds
+No satisfying assignment found.
+4: 4 variables - Satisfiable: True, Time: 4 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0}
+5: 4 variables - Satisfiable: True, Time: 15 microseconds
+Assignment: {1: 0, 2: 0, 3: 1, 4: 1}
+6: 4 variables - Satisfiable: True, Time: 5 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1}
+7: 4 variables - Satisfiable: True, Time: 20 microseconds
+Assignment: {1: 0, 2: 0, 3: 1, 4: 0}
+8: 4 variables - Satisfiable: False, Time: 18 microseconds
+No satisfying assignment found.
+9: 4 variables - Satisfiable: False, Time: 23 microseconds
+No satisfying assignment found.
+10: 4 variables - Satisfiable: False, Time: 23 microseconds
+No satisfying assignment found.
+11: 8 variables - Satisfiable: False, Time: 427 microseconds
+No satisfying assignment found.
+12: 8 variables - Satisfiable: False, Time: 390 microseconds
+No satisfying assignment found.
+13: 8 variables - Satisfiable: True, Time: 157 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 0, 5: 1, 6: 1, 7: 1, 8: 0}
+14: 8 variables - Satisfiable: True, Time: 206 microseconds
+Assignment: {1: 0, 2: 1, 3: 0, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1}
+15: 8 variables - Satisfiable: False, Time: 429 microseconds
+No satisfying assignment found.
+16: 8 variables - Satisfiable: False, Time: 327 microseconds
+No satisfying assignment found.
+17: 8 variables - Satisfiable: True, Time: 169 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 1, 8: 0}
+18: 8 variables - Satisfiable: False, Time: 322 microseconds
+No satisfying assignment found.
+19: 8 variables - Satisfiable: True, Time: 192 microseconds
+Assignment: {1: 0, 2: 1, 3: 1, 4: 0, 5: 1, 6: 1, 7: 1, 8: 0}
+20: 8 variables - Satisfiable: True, Time: 30 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 1, 6: 1, 7: 1, 8: 1}
+21: 12 variables - Satisfiable: True, Time: 387 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 1, 6: 1, 7: 1, 8: 0, 9: 1, 10: 1, 11: 1, 12: 0}
+22: 12 variables - Satisfiable: True, Time: 2828 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 1, 5: 0, 6: 0, 7: 0, 8: 1, 9: 1, 10: 1, 11: 0, 12: 0}
+23: 12 variables - Satisfiable: False, Time: 5477 microseconds
+No satisfying assignment found.
+24: 12 variables - Satisfiable: False, Time: 5238 microseconds
+No satisfying assignment found.
+25: 12 variables - Satisfiable: True, Time: 1895 microseconds
+Assignment: {1: 1, 2: 0, 3: 1, 4: 1, 5: 1, 6: 0, 7: 1, 8: 1, 9: 0, 10: 1, 11: 0, 12: 1}
+26: 12 variables - Satisfiable: False, Time: 6220 microseconds
+No satisfying assignment found.
+27: 12 variables - Satisfiable: False, Time: 4989 microseconds
+No satisfying assignment found.
+28: 12 variables - Satisfiable: True, Time: 1962 microseconds
+Assignment: {1: 1, 2: 0, 3: 1, 4: 0, 5: 1, 6: 0, 7: 0, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1}
+29: 12 variables - Satisfiable: False, Time: 6061 microseconds
+No satisfying assignment found.
+30: 12 variables - Satisfiable: True, Time: 4670 microseconds
+Assignment: {1: 0, 2: 0, 3: 1, 4: 1, 5: 0, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0}
+31: 16 variables - Satisfiable: True, Time: 40671 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 1, 5: 0, 6: 1, 7: 1, 8: 0, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 0, 16: 0}
+32: 16 variables - Satisfiable: False, Time: 91658 microseconds
+No satisfying assignment found.
+33: 16 variables - Satisfiable: True, Time: 72905 microseconds
+Assignment: {1: 0, 2: 1, 3: 0, 4: 1, 5: 0, 6: 1, 7: 0, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1}
+34: 16 variables - Satisfiable: True, Time: 1149 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1, 9: 0, 10: 1, 11: 1, 12: 0, 13: 1, 14: 1, 15: 1, 16: 1}
+35: 16 variables - Satisfiable: False, Time: 77443 microseconds
+No satisfying assignment found.
+36: 16 variables - Satisfiable: True, Time: 16322 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1, 5: 1, 6: 0, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 0, 14: 1, 15: 1, 16: 1}
+37: 16 variables - Satisfiable: False, Time: 82513 microseconds
+No satisfying assignment found.
+38: 16 variables - Satisfiable: False, Time: 112975 microseconds
+No satisfying assignment found.
+39: 16 variables - Satisfiable: True, Time: 27517 microseconds
+Assignment: {1: 1, 2: 0, 3: 1, 4: 1, 5: 0, 6: 0, 7: 1, 8: 0, 9: 1, 10: 0, 11: 1, 12: 1, 13: 0, 14: 0, 15: 1, 16: 0}
+40: 16 variables - Satisfiable: False, Time: 101483 microseconds
+No satisfying assignment found.
+41: 18 variables - Satisfiable: False, Time: 374978 microseconds
+No satisfying assignment found.
+42: 18 variables - Satisfiable: False, Time: 429976 microseconds
+No satisfying assignment found.
+43: 18 variables - Satisfiable: False, Time: 358673 microseconds
+No satisfying assignment found.
+44: 18 variables - Satisfiable: False, Time: 339078 microseconds
+No satisfying assignment found.
+45: 18 variables - Satisfiable: False, Time: 343257 microseconds
+No satisfying assignment found.
+46: 18 variables - Satisfiable: False, Time: 398140 microseconds
+No satisfying assignment found.
+47: 18 variables - Satisfiable: False, Time: 381185 microseconds
+No satisfying assignment found.
+48: 18 variables - Satisfiable: True, Time: 38110 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 1, 6: 0, 7: 1, 8: 0, 9: 1, 10: 1, 11: 0, 12: 0, 13: 1, 14: 0, 15: 1, 16: 0, 17: 1, 18: 1}
+49: 18 variables - Satisfiable: False, Time: 376408 microseconds
+No satisfying assignment found.
+50: 18 variables - Satisfiable: True, Time: 17775 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 0, 7: 0, 8: 0, 9: 1, 10: 1, 11: 1, 12: 1, 13: 0, 14: 0, 15: 1, 16: 1, 17: 0, 18: 0}
+51: 20 variables - Satisfiable: False, Time: 1471736 microseconds
+No satisfying assignment found.
+52: 20 variables - Satisfiable: False, Time: 1309449 microseconds
+No satisfying assignment found.
+53: 20 variables - Satisfiable: True, Time: 440645 microseconds
+Assignment: {1: 1, 2: 0, 3: 1, 4: 1, 5: 0, 6: 1, 7: 1, 8: 0, 9: 0, 10: 0, 11: 1, 12: 0, 13: 1, 14: 0, 15: 1, 16: 0, 17: 1, 18: 1, 19: 1, 20: 1}
+54: 20 variables - Satisfiable: False, Time: 1556093 microseconds
+No satisfying assignment found.
+55: 20 variables - Satisfiable: False, Time: 1551415 microseconds
+No satisfying assignment found.
+56: 20 variables - Satisfiable: False, Time: 1603845 microseconds
+No satisfying assignment found.
+57: 20 variables - Satisfiable: False, Time: 1494766 microseconds
+No satisfying assignment found.
+58: 20 variables - Satisfiable: True, Time: 319987 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 0, 5: 0, 6: 1, 7: 0, 8: 1, 9: 0, 10: 0, 11: 0, 12: 1, 13: 0, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 0}
+59: 20 variables - Satisfiable: False, Time: 1458902 microseconds
+No satisfying assignment found.
+60: 20 variables - Satisfiable: True, Time: 228707 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1, 5: 1, 6: 0, 7: 0, 8: 0, 9: 0, 10: 0, 11: 1, 12: 1, 13: 0, 14: 0, 15: 0, 16: 0, 17: 0, 18: 1, 19: 0, 20: 0}
+61: 22 variables - Satisfiable: True, Time: 1879353 microseconds
+Assignment: {1: 1, 2: 0, 3: 1, 4: 1, 5: 1, 6: 0, 7: 1, 8: 1, 9: 1, 10: 0, 11: 1, 12: 0, 13: 1, 14: 1, 15: 0, 16: 0, 17: 0, 18: 1, 19: 1, 20: 1, 21: 0, 22: 0}
+62: 22 variables - Satisfiable: False, Time: 5485305 microseconds
+No satisfying assignment found.
+63: 22 variables - Satisfiable: False, Time: 5942735 microseconds
+No satisfying assignment found.
+64: 22 variables - Satisfiable: False, Time: 5131136 microseconds
+No satisfying assignment found.
+65: 22 variables - Satisfiable: False, Time: 6591671 microseconds
+No satisfying assignment found.
+66: 22 variables - Satisfiable: False, Time: 6147067 microseconds
+No satisfying assignment found.
+67: 22 variables - Satisfiable: False, Time: 6882904 microseconds
+No satisfying assignment found.
+68: 22 variables - Satisfiable: False, Time: 5645756 microseconds
+No satisfying assignment found.
+69: 22 variables - Satisfiable: False, Time: 5556032 microseconds
+No satisfying assignment found.
+70: 22 variables - Satisfiable: False, Time: 5102121 microseconds
+No satisfying assignment found.
+71: 24 variables - Satisfiable: True, Time: 11921646 microseconds
+Assignment: {1: 0, 2: 1, 3: 1, 4: 1, 5: 0, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1, 13: 0, 14: 1, 15: 0, 16: 1, 17: 1, 18: 1, 19: 1, 20: 0, 21: 0, 22: 1, 23: 1, 24: 1}
+72: 24 variables - Satisfiable: False, Time: 22858851 microseconds
+No satisfying assignment found.
+73: 24 variables - Satisfiable: False, Time: 20909374 microseconds
+No satisfying assignment found.
+74: 24 variables - Satisfiable: True, Time: 10722162 microseconds
+Assignment: {1: 0, 2: 1, 3: 1, 4: 1, 5: 0, 6: 1, 7: 0, 8: 1, 9: 1, 10: 0, 11: 0, 12: 1, 13: 1, 14: 1, 15: 0, 16: 0, 17: 0, 18: 1, 19: 1, 20: 0, 21: 1, 22: 0, 23: 1, 24: 1}
+75: 24 variables - Satisfiable: False, Time: 25608033 microseconds
+No satisfying assignment found.
+76: 24 variables - Satisfiable: False, Time: 20255317 microseconds
+No satisfying assignment found.
+77: 24 variables - Satisfiable: False, Time: 21182729 microseconds
+No satisfying assignment found.
+78: 24 variables - Satisfiable: False, Time: 20387241 microseconds
+No satisfying assignment found.
+79: 24 variables - Satisfiable: False, Time: 21800096 microseconds
+No satisfying assignment found.
+80: 24 variables - Satisfiable: True, Time: 1979538 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 1, 6: 0, 7: 1, 8: 0, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 0, 18: 1, 19: 1, 20: 1, 21: 0, 22: 1, 23: 0, 24: 1}
+81: 4 variables - Satisfiable: False, Time: 38 microseconds
+No satisfying assignment found.
+82: 4 variables - Satisfiable: True, Time: 24 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 0}
+83: 4 variables - Satisfiable: True, Time: 22 microseconds
+Assignment: {1: 0, 2: 1, 3: 1, 4: 1}
+84: 4 variables - Satisfiable: True, Time: 6 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0}
+85: 4 variables - Satisfiable: False, Time: 49 microseconds
+No satisfying assignment found.
+86: 4 variables - Satisfiable: True, Time: 13 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1}
+87: 4 variables - Satisfiable: False, Time: 36 microseconds
+No satisfying assignment found.
+88: 4 variables - Satisfiable: False, Time: 30 microseconds
+No satisfying assignment found.
+89: 4 variables - Satisfiable: False, Time: 41 microseconds
+No satisfying assignment found.
+90: 4 variables - Satisfiable: True, Time: 15 microseconds
+Assignment: {1: 1, 2: 0, 3: 1, 4: 0}
+91: 8 variables - Satisfiable: True, Time: 43 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 0, 7: 0, 8: 1}
+92: 8 variables - Satisfiable: True, Time: 190 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 1, 5: 1, 6: 0, 7: 0, 8: 0}
+93: 8 variables - Satisfiable: True, Time: 212 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 1, 5: 0, 6: 1, 7: 1, 8: 0}
+94: 8 variables - Satisfiable: False, Time: 819 microseconds
+No satisfying assignment found.
+95: 8 variables - Satisfiable: False, Time: 478 microseconds
+No satisfying assignment found.
+96: 8 variables - Satisfiable: False, Time: 530 microseconds
+No satisfying assignment found.
+97: 8 variables - Satisfiable: False, Time: 639 microseconds
+No satisfying assignment found.
+98: 8 variables - Satisfiable: False, Time: 583 microseconds
+No satisfying assignment found.
+99: 8 variables - Satisfiable: False, Time: 410 microseconds
+No satisfying assignment found.
+100: 8 variables - Satisfiable: False, Time: 564 microseconds
+No satisfying assignment found.
+101: 12 variables - Satisfiable: False, Time: 9999 microseconds
+No satisfying assignment found.
+102: 12 variables - Satisfiable: True, Time: 1665 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1, 5: 1, 6: 1, 7: 0, 8: 0, 9: 0, 10: 0, 11: 0, 12: 0}
+103: 12 variables - Satisfiable: False, Time: 10059 microseconds
+No satisfying assignment found.
+104: 12 variables - Satisfiable: True, Time: 4704 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0, 10: 0, 11: 1, 12: 0}
+105: 12 variables - Satisfiable: False, Time: 9254 microseconds
+No satisfying assignment found.
+106: 12 variables - Satisfiable: False, Time: 10002 microseconds
+No satisfying assignment found.
+107: 12 variables - Satisfiable: False, Time: 9864 microseconds
+No satisfying assignment found.
+108: 12 variables - Satisfiable: False, Time: 12495 microseconds
+No satisfying assignment found.
+109: 12 variables - Satisfiable: True, Time: 1806 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 0, 5: 1, 6: 0, 7: 0, 8: 1, 9: 1, 10: 1, 11: 0, 12: 0}
+110: 12 variables - Satisfiable: False, Time: 10151 microseconds
+No satisfying assignment found.
+111: 16 variables - Satisfiable: False, Time: 163911 microseconds
+No satisfying assignment found.
+112: 16 variables - Satisfiable: True, Time: 74435 microseconds
+Assignment: {1: 0, 2: 1, 3: 1, 4: 1, 5: 0, 6: 1, 7: 1, 8: 1, 9: 0, 10: 1, 11: 0, 12: 1, 13: 0, 14: 1, 15: 1, 16: 1}
+113: 16 variables - Satisfiable: False, Time: 155560 microseconds
+No satisfying assignment found.
+114: 16 variables - Satisfiable: False, Time: 155817 microseconds
+No satisfying assignment found.
+115: 16 variables - Satisfiable: False, Time: 151510 microseconds
+No satisfying assignment found.
+116: 16 variables - Satisfiable: False, Time: 195901 microseconds
+No satisfying assignment found.
+117: 16 variables - Satisfiable: False, Time: 168122 microseconds
+No satisfying assignment found.
+118: 16 variables - Satisfiable: False, Time: 142910 microseconds
+No satisfying assignment found.
+119: 16 variables - Satisfiable: False, Time: 158248 microseconds
+No satisfying assignment found.
+120: 16 variables - Satisfiable: True, Time: 144886 microseconds
+Assignment: {1: 0, 2: 0, 3: 0, 4: 1, 5: 0, 6: 0, 7: 1, 8: 0, 9: 0, 10: 1, 11: 1, 12: 1, 13: 1, 14: 0, 15: 1, 16: 1}
+121: 18 variables - Satisfiable: False, Time: 669269 microseconds
+No satisfying assignment found.
+122: 18 variables - Satisfiable: False, Time: 665181 microseconds
+No satisfying assignment found.
+123: 18 variables - Satisfiable: False, Time: 737148 microseconds
+No satisfying assignment found.
+124: 18 variables - Satisfiable: False, Time: 649015 microseconds
+No satisfying assignment found.
+125: 18 variables - Satisfiable: False, Time: 646570 microseconds
+No satisfying assignment found.
+126: 18 variables - Satisfiable: True, Time: 76879 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 1, 6: 0, 7: 1, 8: 0, 9: 0, 10: 1, 11: 1, 12: 0, 13: 1, 14: 0, 15: 0, 16: 0, 17: 1, 18: 0}
+127: 18 variables - Satisfiable: True, Time: 141747 microseconds
+Assignment: {1: 1, 2: 0, 3: 1, 4: 1, 5: 1, 6: 0, 7: 0, 8: 1, 9: 1, 10: 0, 11: 0, 12: 1, 13: 0, 14: 0, 15: 0, 16: 0, 17: 0, 18: 1}
+128: 18 variables - Satisfiable: True, Time: 11705 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 0, 7: 1, 8: 1, 9: 0, 10: 0, 11: 0, 12: 0, 13: 1, 14: 1, 15: 0, 16: 1, 17: 1, 18: 1}
+129: 18 variables - Satisfiable: False, Time: 596639 microseconds
+No satisfying assignment found.
+130: 18 variables - Satisfiable: True, Time: 361380 microseconds
+Assignment: {1: 0, 2: 1, 3: 1, 4: 1, 5: 1, 6: 0, 7: 1, 8: 1, 9: 1, 10: 0, 11: 1, 12: 0, 13: 0, 14: 0, 15: 1, 16: 0, 17: 1, 18: 0}
+131: 20 variables - Satisfiable: True, Time: 672843 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 0, 5: 1, 6: 0, 7: 0, 8: 1, 9: 1, 10: 0, 11: 1, 12: 1, 13: 0, 14: 0, 15: 0, 16: 1, 17: 1, 18: 1, 19: 0, 20: 1}
+132: 20 variables - Satisfiable: False, Time: 2205805 microseconds
+No satisfying assignment found.
+133: 20 variables - Satisfiable: True, Time: 998115 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 1, 15: 0, 16: 1, 17: 0, 18: 1, 19: 0, 20: 0}
+134: 20 variables - Satisfiable: False, Time: 2582132 microseconds
+No satisfying assignment found.
+135: 20 variables - Satisfiable: True, Time: 298048 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 0, 14: 0, 15: 0, 16: 0, 17: 1, 18: 1, 19: 0, 20: 1}
+136: 20 variables - Satisfiable: False, Time: 2332713 microseconds
+No satisfying assignment found.
+137: 20 variables - Satisfiable: False, Time: 2724023 microseconds
+No satisfying assignment found.
+138: 20 variables - Satisfiable: True, Time: 350628 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1, 5: 0, 6: 1, 7: 0, 8: 1, 9: 1, 10: 0, 11: 1, 12: 0, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+139: 20 variables - Satisfiable: False, Time: 2411175 microseconds
+No satisfying assignment found.
+140: 20 variables - Satisfiable: False, Time: 2703365 microseconds
+No satisfying assignment found.
+141: 22 variables - Satisfiable: True, Time: 1160316 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 0, 6: 1, 7: 1, 8: 0, 9: 1, 10: 1, 11: 1, 12: 0, 13: 0, 14: 0, 15: 1, 16: 1, 17: 0, 18: 1, 19: 0, 20: 1, 21: 0, 22: 1}
+142: 22 variables - Satisfiable: True, Time: 3944407 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 1, 5: 0, 6: 1, 7: 1, 8: 1, 9: 0, 10: 1, 11: 1, 12: 0, 13: 1, 14: 1, 15: 0, 16: 0, 17: 0, 18: 1, 19: 1, 20: 0, 21: 1, 22: 1}
+143: 22 variables - Satisfiable: False, Time: 11100824 microseconds
+No satisfying assignment found.
+144: 22 variables - Satisfiable: False, Time: 9966375 microseconds
+No satisfying assignment found.
+145: 22 variables - Satisfiable: False, Time: 9656150 microseconds
+No satisfying assignment found.
+146: 22 variables - Satisfiable: False, Time: 10017891 microseconds
+No satisfying assignment found.
+147: 22 variables - Satisfiable: False, Time: 12328898 microseconds
+No satisfying assignment found.
+148: 22 variables - Satisfiable: False, Time: 11104334 microseconds
+No satisfying assignment found.
+149: 22 variables - Satisfiable: True, Time: 2632924 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 0, 5: 1, 6: 1, 7: 0, 8: 0, 9: 0, 10: 1, 11: 1, 12: 0, 13: 0, 14: 1, 15: 0, 16: 1, 17: 1, 18: 1, 19: 0, 20: 0, 21: 0, 22: 0}
+150: 22 variables - Satisfiable: True, Time: 7098436 microseconds
+Assignment: {1: 0, 2: 0, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1, 9: 0, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 0, 16: 1, 17: 0, 18: 1, 19: 0, 20: 1, 21: 0, 22: 1}
+151: 24 variables - Satisfiable: False, Time: 43481376 microseconds
+No satisfying assignment found.
+152: 24 variables - Satisfiable: False, Time: 34510918 microseconds
+No satisfying assignment found.
+153: 24 variables - Satisfiable: False, Time: 41083157 microseconds
+No satisfying assignment found.
+154: 24 variables - Satisfiable: False, Time: 39760622 microseconds
+No satisfying assignment found.
+155: 24 variables - Satisfiable: False, Time: 46314841 microseconds
+No satisfying assignment found.
+156: 24 variables - Satisfiable: False, Time: 35047220 microseconds
+No satisfying assignment found.
+157: 24 variables - Satisfiable: False, Time: 39465342 microseconds
+No satisfying assignment found.
+158: 24 variables - Satisfiable: False, Time: 46001209 microseconds
+No satisfying assignment found.
+159: 24 variables - Satisfiable: False, Time: 43776966 microseconds
+No satisfying assignment found.
+160: 24 variables - Satisfiable: False, Time: 39024779 microseconds
+No satisfying assignment found.
+161: 4 variables - Satisfiable: True, Time: 22 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0}
+162: 4 variables - Satisfiable: False, Time: 43 microseconds
+No satisfying assignment found.
+163: 4 variables - Satisfiable: False, Time: 54 microseconds
+No satisfying assignment found.
+164: 4 variables - Satisfiable: True, Time: 40 microseconds
+Assignment: {1: 0, 2: 1, 3: 0, 4: 1}
+165: 4 variables - Satisfiable: True, Time: 19 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1}
+166: 4 variables - Satisfiable: True, Time: 13 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1}
+167: 4 variables - Satisfiable: True, Time: 72 microseconds
+Assignment: {1: 0, 2: 0, 3: 1, 4: 0}
+168: 4 variables - Satisfiable: True, Time: 25 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 0}
+169: 4 variables - Satisfiable: True, Time: 15 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1}
+170: 4 variables - Satisfiable: True, Time: 49 microseconds
+Assignment: {1: 0, 2: 1, 3: 0, 4: 0}
+171: 8 variables - Satisfiable: True, Time: 365 microseconds
+Assignment: {1: 1, 2: 0, 3: 1, 4: 0, 5: 1, 6: 1, 7: 0, 8: 0}
+172: 8 variables - Satisfiable: True, Time: 267 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 0, 5: 1, 6: 1, 7: 1, 8: 1}
+173: 8 variables - Satisfiable: True, Time: 696 microseconds
+Assignment: {1: 0, 2: 1, 3: 1, 4: 0, 5: 0, 6: 1, 7: 0, 8: 0}
+174: 8 variables - Satisfiable: True, Time: 422 microseconds
+Assignment: {1: 1, 2: 0, 3: 1, 4: 1, 5: 0, 6: 1, 7: 0, 8: 0}
+175: 8 variables - Satisfiable: True, Time: 577 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0, 8: 0}
+176: 8 variables - Satisfiable: False, Time: 1238 microseconds
+No satisfying assignment found.
+177: 8 variables - Satisfiable: False, Time: 927 microseconds
+No satisfying assignment found.
+178: 8 variables - Satisfiable: True, Time: 42 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 0, 7: 1, 8: 1}
+179: 8 variables - Satisfiable: False, Time: 1049 microseconds
+No satisfying assignment found.
+180: 8 variables - Satisfiable: False, Time: 1158 microseconds
+No satisfying assignment found.
+181: 12 variables - Satisfiable: True, Time: 1855 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1, 5: 1, 6: 1, 7: 0, 8: 0, 9: 0, 10: 1, 11: 0, 12: 1}
+182: 12 variables - Satisfiable: True, Time: 11576 microseconds
+Assignment: {1: 0, 2: 1, 3: 1, 4: 1, 5: 0, 6: 0, 7: 0, 8: 0, 9: 1, 10: 1, 11: 1, 12: 1}
+183: 12 variables - Satisfiable: True, Time: 2482 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 0, 6: 1, 7: 1, 8: 0, 9: 0, 10: 0, 11: 0, 12: 1}
+184: 12 variables - Satisfiable: False, Time: 21188 microseconds
+No satisfying assignment found.
+185: 12 variables - Satisfiable: True, Time: 1537 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 0, 6: 0, 7: 1, 8: 1, 9: 0, 10: 1, 11: 0, 12: 1}
+186: 12 variables - Satisfiable: True, Time: 2131 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0}
+187: 12 variables - Satisfiable: False, Time: 14276 microseconds
+No satisfying assignment found.
+188: 12 variables - Satisfiable: False, Time: 21907 microseconds
+No satisfying assignment found.
+189: 12 variables - Satisfiable: False, Time: 17164 microseconds
+No satisfying assignment found.
+190: 12 variables - Satisfiable: False, Time: 16497 microseconds
+No satisfying assignment found.
+191: 16 variables - Satisfiable: True, Time: 116283 microseconds
+Assignment: {1: 1, 2: 0, 3: 1, 4: 1, 5: 1, 6: 0, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 0, 13: 1, 14: 1, 15: 1, 16: 0}
+192: 16 variables - Satisfiable: False, Time: 294783 microseconds
+No satisfying assignment found.
+193: 16 variables - Satisfiable: False, Time: 363766 microseconds
+No satisfying assignment found.
+194: 16 variables - Satisfiable: True, Time: 108784 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 1, 5: 1, 6: 1, 7: 0, 8: 0, 9: 1, 10: 1, 11: 0, 12: 1, 13: 1, 14: 0, 15: 1, 16: 0}
+195: 16 variables - Satisfiable: True, Time: 253 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1, 13: 0, 14: 0, 15: 1, 16: 0}
+196: 16 variables - Satisfiable: False, Time: 305761 microseconds
+No satisfying assignment found.
+197: 16 variables - Satisfiable: False, Time: 325012 microseconds
+No satisfying assignment found.
+198: 16 variables - Satisfiable: False, Time: 281439 microseconds
+No satisfying assignment found.
+199: 16 variables - Satisfiable: True, Time: 95163 microseconds
+Assignment: {1: 1, 2: 0, 3: 1, 4: 1, 5: 0, 6: 1, 7: 0, 8: 0, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 0, 16: 1}
+200: 16 variables - Satisfiable: True, Time: 207585 microseconds
+Assignment: {1: 0, 2: 0, 3: 1, 4: 1, 5: 1, 6: 0, 7: 0, 8: 1, 9: 0, 10: 0, 11: 0, 12: 0, 13: 1, 14: 0, 15: 0, 16: 0}
+201: 18 variables - Satisfiable: True, Time: 52296 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 0, 7: 0, 8: 0, 9: 1, 10: 1, 11: 0, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 0, 18: 1}
+202: 18 variables - Satisfiable: False, Time: 1510215 microseconds
+No satisfying assignment found.
+203: 18 variables - Satisfiable: True, Time: 793209 microseconds
+Assignment: {1: 0, 2: 1, 3: 0, 4: 0, 5: 1, 6: 1, 7: 0, 8: 1, 9: 0, 10: 0, 11: 1, 12: 0, 13: 0, 14: 1, 15: 0, 16: 0, 17: 1, 18: 0}
+204: 18 variables - Satisfiable: False, Time: 1330570 microseconds
+No satisfying assignment found.
+205: 18 variables - Satisfiable: False, Time: 1362884 microseconds
+No satisfying assignment found.
+206: 18 variables - Satisfiable: True, Time: 480337 microseconds
+Assignment: {1: 1, 2: 0, 3: 1, 4: 0, 5: 0, 6: 0, 7: 1, 8: 0, 9: 1, 10: 1, 11: 1, 12: 0, 13: 0, 14: 0, 15: 1, 16: 0, 17: 1, 18: 0}
+207: 18 variables - Satisfiable: False, Time: 1110105 microseconds
+No satisfying assignment found.
+208: 18 variables - Satisfiable: True, Time: 298579 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 0, 5: 1, 6: 1, 7: 0, 8: 0, 9: 1, 10: 1, 11: 0, 12: 0, 13: 1, 14: 0, 15: 1, 16: 1, 17: 0, 18: 0}
+209: 18 variables - Satisfiable: False, Time: 1159251 microseconds
+No satisfying assignment found.
+210: 18 variables - Satisfiable: False, Time: 1285926 microseconds
+No satisfying assignment found.
+211: 20 variables - Satisfiable: True, Time: 3019000 microseconds
+Assignment: {1: 0, 2: 1, 3: 1, 4: 1, 5: 0, 6: 1, 7: 0, 8: 0, 9: 0, 10: 1, 11: 1, 12: 1, 13: 1, 14: 0, 15: 1, 16: 0, 17: 1, 18: 1, 19: 1, 20: 0}
+212: 20 variables - Satisfiable: False, Time: 5449556 microseconds
+No satisfying assignment found.
+213: 20 variables - Satisfiable: True, Time: 102586 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 0, 9: 0, 10: 0, 11: 1, 12: 0, 13: 0, 14: 1, 15: 0, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+214: 20 variables - Satisfiable: True, Time: 4721435 microseconds
+Assignment: {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 1, 8: 1, 9: 0, 10: 0, 11: 1, 12: 0, 13: 1, 14: 0, 15: 1, 16: 1, 17: 0, 18: 1, 19: 1, 20: 0}
+215: 20 variables - Satisfiable: False, Time: 4481788 microseconds
+No satisfying assignment found.
+216: 20 variables - Satisfiable: False, Time: 4724972 microseconds
+No satisfying assignment found.
+217: 20 variables - Satisfiable: True, Time: 5048161 microseconds
+Assignment: {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 1, 7: 0, 8: 0, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 0, 15: 0, 16: 1, 17: 0, 18: 1, 19: 0, 20: 0}
+218: 20 variables - Satisfiable: False, Time: 6160276 microseconds
+No satisfying assignment found.
+219: 20 variables - Satisfiable: True, Time: 4928373 microseconds
+Assignment: {1: 0, 2: 0, 3: 1, 4: 0, 5: 1, 6: 1, 7: 0, 8: 1, 9: 1, 10: 0, 11: 1, 12: 1, 13: 1, 14: 0, 15: 1, 16: 0, 17: 1, 18: 0, 19: 1, 20: 1}
+220: 20 variables - Satisfiable: False, Time: 5679300 microseconds
+No satisfying assignment found.
+221: 22 variables - Satisfiable: False, Time: 19959944 microseconds
+No satisfying assignment found.
+222: 22 variables - Satisfiable: False, Time: 22725171 microseconds
+No satisfying assignment found.
+223: 22 variables - Satisfiable: True, Time: 15949920 microseconds
+Assignment: {1: 0, 2: 1, 3: 0, 4: 0, 5: 0, 6: 0, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1, 13: 0, 14: 0, 15: 1, 16: 0, 17: 0, 18: 1, 19: 1, 20: 1, 21: 1, 22: 0}
+224: 22 variables - Satisfiable: False, Time: 20150793 microseconds
+No satisfying assignment found.
+225: 22 variables - Satisfiable: True, Time: 2925493 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 0, 6: 0, 7: 0, 8: 1, 9: 0, 10: 0, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 0, 18: 1, 19: 1, 20: 1, 21: 1, 22: 1}
+226: 22 variables - Satisfiable: False, Time: 19606540 microseconds
+No satisfying assignment found.
+227: 22 variables - Satisfiable: True, Time: 3646191 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 0, 5: 1, 6: 1, 7: 0, 8: 1, 9: 0, 10: 1, 11: 0, 12: 0, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 0, 19: 1, 20: 0, 21: 1, 22: 0}
+228: 22 variables - Satisfiable: False, Time: 22654277 microseconds
+No satisfying assignment found.
+229: 22 variables - Satisfiable: True, Time: 8618097 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 1, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0, 10: 1, 11: 0, 12: 0, 13: 0, 14: 1, 15: 0, 16: 1, 17: 1, 18: 0, 19: 0, 20: 0, 21: 1, 22: 1}
+230: 22 variables - Satisfiable: False, Time: 19231767 microseconds
+No satisfying assignment found.
+231: 24 variables - Satisfiable: False, Time: 78070540 microseconds
+No satisfying assignment found.
+232: 24 variables - Satisfiable: True, Time: 6768851 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 1, 6: 0, 7: 0, 8: 1, 9: 0, 10: 1, 11: 1, 12: 1, 13: 1, 14: 0, 15: 0, 16: 0, 17: 1, 18: 1, 19: 0, 20: 1, 21: 1, 22: 1, 23: 1, 24: 0}
+233: 24 variables - Satisfiable: False, Time: 85960491 microseconds
+No satisfying assignment found.
+234: 24 variables - Satisfiable: True, Time: 14708384 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1, 5: 0, 6: 0, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1, 13: 1, 14: 0, 15: 0, 16: 0, 17: 1, 18: 0, 19: 0, 20: 0, 21: 1, 22: 0, 23: 1, 24: 0}
+235: 24 variables - Satisfiable: True, Time: 34559877 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 1, 5: 0, 6: 1, 7: 0, 8: 1, 9: 0, 10: 1, 11: 1, 12: 1, 13: 0, 14: 0, 15: 1, 16: 0, 17: 1, 18: 1, 19: 0, 20: 1, 21: 0, 22: 0, 23: 0, 24: 1}
+236: 24 variables - Satisfiable: False, Time: 82714219 microseconds
+No satisfying assignment found.
+237: 24 variables - Satisfiable: True, Time: 2712685 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 0, 6: 1, 7: 0, 8: 1, 9: 0, 10: 1, 11: 1, 12: 1, 13: 1, 14: 0, 15: 0, 16: 1, 17: 1, 18: 0, 19: 0, 20: 0, 21: 1, 22: 0, 23: 1, 24: 0}
+238: 24 variables - Satisfiable: True, Time: 1758927 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 0, 7: 0, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 0, 15: 1, 16: 1, 17: 0, 18: 1, 19: 1, 20: 1, 21: 0, 22: 1, 23: 1, 24: 0}
+239: 24 variables - Satisfiable: False, Time: 75828649 microseconds
+No satisfying assignment found.
+240: 24 variables - Satisfiable: True, Time: 31707162 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 1, 5: 1, 6: 1, 7: 0, 8: 0, 9: 0, 10: 0, 11: 0, 12: 1, 13: 1, 14: 0, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 0, 21: 1, 22: 1, 23: 1, 24: 1}
+241: 4 variables - Satisfiable: True, Time: 45 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1}
+242: 4 variables - Satisfiable: True, Time: 50 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 1}
+243: 4 variables - Satisfiable: True, Time: 17 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0}
+244: 4 variables - Satisfiable: True, Time: 75 microseconds
+Assignment: {1: 0, 2: 1, 3: 0, 4: 0}
+245: 4 variables - Satisfiable: True, Time: 15 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1}
+246: 4 variables - Satisfiable: True, Time: 62 microseconds
+Assignment: {1: 0, 2: 1, 3: 1, 4: 1}
+247: 4 variables - Satisfiable: True, Time: 72 microseconds
+Assignment: {1: 0, 2: 0, 3: 1, 4: 1}
+248: 4 variables - Satisfiable: True, Time: 21 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1}
+249: 4 variables - Satisfiable: True, Time: 22 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0}
+250: 4 variables - Satisfiable: True, Time: 56 microseconds
+Assignment: {1: 1, 2: 0, 3: 0, 4: 1}
+251: 8 variables - Satisfiable: True, Time: 128 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 1, 6: 1, 7: 1, 8: 0}
+252: 8 variables - Satisfiable: True, Time: 40 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 0}
+253: 8 variables - Satisfiable: True, Time: 253 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 0, 6: 0, 7: 1, 8: 0}
+254: 8 variables - Satisfiable: True, Time: 40 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1}
+255: 8 variables - Satisfiable: True, Time: 251 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1}
+256: 8 variables - Satisfiable: True, Time: 250 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1, 5: 1, 6: 0, 7: 1, 8: 0}
+257: 8 variables - Satisfiable: True, Time: 186 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 0, 6: 0, 7: 1, 8: 0}
+258: 8 variables - Satisfiable: True, Time: 85 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 0, 6: 1, 7: 1, 8: 1}
+259: 8 variables - Satisfiable: True, Time: 271 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 1, 6: 0, 7: 0, 8: 1}
+260: 8 variables - Satisfiable: True, Time: 365 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 0, 5: 1, 6: 1, 7: 0, 8: 1}
+261: 12 variables - Satisfiable: True, Time: 271 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 1, 10: 0, 11: 0, 12: 1}
+262: 12 variables - Satisfiable: True, Time: 1761 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 0, 6: 1, 7: 0, 8: 1, 9: 1, 10: 0, 11: 0, 12: 0}
+263: 12 variables - Satisfiable: True, Time: 3663 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 0, 6: 1, 7: 1, 8: 1, 9: 0, 10: 0, 11: 1, 12: 0}
+264: 12 variables - Satisfiable: True, Time: 215 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 0, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0}
+265: 12 variables - Satisfiable: True, Time: 2579 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 0, 5: 1, 6: 1, 7: 0, 8: 0, 9: 0, 10: 0, 11: 1, 12: 0}
+266: 12 variables - Satisfiable: True, Time: 743 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 0, 7: 0, 8: 0, 9: 1, 10: 1, 11: 1, 12: 0}
+267: 12 variables - Satisfiable: True, Time: 732 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 0, 7: 1, 8: 1, 9: 0, 10: 1, 11: 0, 12: 0}
+268: 12 variables - Satisfiable: True, Time: 819 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 0, 6: 1, 7: 1, 8: 1, 9: 0, 10: 0, 11: 1, 12: 1}
+269: 12 variables - Satisfiable: True, Time: 1063 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 0, 6: 1, 7: 0, 8: 1, 9: 1, 10: 0, 11: 1, 12: 1}
+270: 12 variables - Satisfiable: True, Time: 2029 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 0, 6: 0, 7: 0, 8: 1, 9: 0, 10: 1, 11: 1, 12: 1}
+271: 16 variables - Satisfiable: True, Time: 642 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 0, 12: 1, 13: 1, 14: 1, 15: 0, 16: 1}
+272: 16 variables - Satisfiable: True, Time: 314 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 1, 15: 1, 16: 0}
+273: 16 variables - Satisfiable: True, Time: 1689 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 0, 11: 1, 12: 1, 13: 0, 14: 1, 15: 0, 16: 1}
+274: 16 variables - Satisfiable: True, Time: 3661 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1, 13: 0, 14: 1, 15: 1, 16: 0}
+275: 16 variables - Satisfiable: True, Time: 7190 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 0, 9: 0, 10: 1, 11: 0, 12: 0, 13: 1, 14: 1, 15: 0, 16: 1}
+276: 16 variables - Satisfiable: True, Time: 6101 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1, 9: 0, 10: 1, 11: 0, 12: 1, 13: 0, 14: 1, 15: 1, 16: 1}
+277: 16 variables - Satisfiable: True, Time: 25760 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 0, 6: 0, 7: 1, 8: 0, 9: 0, 10: 0, 11: 1, 12: 1, 13: 0, 14: 1, 15: 0, 16: 0}
+278: 16 variables - Satisfiable: True, Time: 528 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 0, 14: 1, 15: 1, 16: 1}
+279: 16 variables - Satisfiable: True, Time: 3071 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 1, 10: 1, 11: 0, 12: 1, 13: 1, 14: 1, 15: 1, 16: 0}
+280: 16 variables - Satisfiable: True, Time: 2686 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 1, 10: 1, 11: 0, 12: 1, 13: 0, 14: 0, 15: 1, 16: 0}
+281: 18 variables - Satisfiable: True, Time: 7015 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 1, 11: 1, 12: 1, 13: 1, 14: 0, 15: 0, 16: 1, 17: 1, 18: 1}
+282: 18 variables - Satisfiable: True, Time: 5432 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 1, 12: 1, 13: 0, 14: 0, 15: 1, 16: 1, 17: 0, 18: 1}
+283: 18 variables - Satisfiable: True, Time: 1536 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 1, 12: 1, 13: 1, 14: 0, 15: 1, 16: 0, 17: 0, 18: 1}
+284: 18 variables - Satisfiable: True, Time: 45291 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 0, 7: 0, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 1, 15: 0, 16: 1, 17: 1, 18: 1}
+285: 18 variables - Satisfiable: True, Time: 3790 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 1, 11: 1, 12: 1, 13: 1, 14: 0, 15: 1, 16: 0, 17: 1, 18: 1}
+286: 18 variables - Satisfiable: True, Time: 22090 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 0, 9: 1, 10: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 0, 16: 1, 17: 1, 18: 1}
+287: 18 variables - Satisfiable: True, Time: 7522 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 0, 11: 1, 12: 0, 13: 0, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1}
+288: 18 variables - Satisfiable: True, Time: 652 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 0, 14: 0, 15: 0, 16: 0, 17: 1, 18: 0}
+289: 18 variables - Satisfiable: True, Time: 15527 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 0, 10: 0, 11: 1, 12: 1, 13: 0, 14: 0, 15: 0, 16: 1, 17: 0, 18: 1}
+290: 18 variables - Satisfiable: True, Time: 21868 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 0, 14: 0, 15: 0, 16: 1, 17: 1, 18: 0}
+291: 20 variables - Satisfiable: True, Time: 4526 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 0, 15: 1, 16: 1, 17: 0, 18: 1, 19: 1, 20: 0}
+292: 20 variables - Satisfiable: True, Time: 112011 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1, 9: 1, 10: 0, 11: 1, 12: 1, 13: 1, 14: 0, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+293: 20 variables - Satisfiable: True, Time: 44651 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 1, 10: 0, 11: 0, 12: 0, 13: 1, 14: 0, 15: 1, 16: 0, 17: 1, 18: 0, 19: 1, 20: 0}
+294: 20 variables - Satisfiable: True, Time: 20166 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 1, 11: 1, 12: 0, 13: 1, 14: 1, 15: 0, 16: 1, 17: 1, 18: 0, 19: 1, 20: 1}
+295: 20 variables - Satisfiable: True, Time: 21669 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 1, 11: 1, 12: 0, 13: 0, 14: 1, 15: 0, 16: 0, 17: 0, 18: 1, 19: 1, 20: 0}
+296: 20 variables - Satisfiable: True, Time: 112624 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1, 9: 1, 10: 0, 11: 1, 12: 0, 13: 0, 14: 1, 15: 1, 16: 1, 17: 0, 18: 1, 19: 1, 20: 0}
+297: 20 variables - Satisfiable: True, Time: 11793 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 0, 19: 0, 20: 0}
+298: 20 variables - Satisfiable: True, Time: 15422 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 1, 12: 0, 13: 0, 14: 1, 15: 1, 16: 0, 17: 1, 18: 1, 19: 1, 20: 1}
+299: 20 variables - Satisfiable: True, Time: 9685 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 0, 13: 1, 14: 0, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+300: 20 variables - Satisfiable: True, Time: 35877 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 1, 10: 1, 11: 0, 12: 1, 13: 0, 14: 0, 15: 1, 16: 0, 17: 0, 18: 1, 19: 0, 20: 0}
+301: 22 variables - Satisfiable: True, Time: 1290351 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 0, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 1, 12: 0, 13: 0, 14: 1, 15: 0, 16: 0, 17: 1, 18: 0, 19: 1, 20: 1, 21: 0, 22: 1}
+302: 22 variables - Satisfiable: True, Time: 16773 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 0, 14: 1, 15: 0, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1, 21: 1, 22: 0}
+303: 22 variables - Satisfiable: True, Time: 8359 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 0, 14: 0, 15: 1, 16: 0, 17: 1, 18: 1, 19: 1, 20: 0, 21: 0, 22: 0}
+304: 22 variables - Satisfiable: True, Time: 76223 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 0, 11: 0, 12: 1, 13: 1, 14: 1, 15: 1, 16: 0, 17: 1, 18: 1, 19: 0, 20: 0, 21: 1, 22: 0}
+305: 22 variables - Satisfiable: True, Time: 155514 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 1, 11: 0, 12: 0, 13: 1, 14: 0, 15: 1, 16: 0, 17: 0, 18: 0, 19: 0, 20: 1, 21: 0, 22: 1}
+306: 22 variables - Satisfiable: True, Time: 1682 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 0, 17: 1, 18: 1, 19: 0, 20: 1, 21: 1, 22: 1}
+307: 22 variables - Satisfiable: True, Time: 2239 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 0, 17: 0, 18: 1, 19: 1, 20: 0, 21: 0, 22: 1}
+308: 22 variables - Satisfiable: True, Time: 99073 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 1, 11: 1, 12: 1, 13: 0, 14: 1, 15: 0, 16: 0, 17: 1, 18: 1, 19: 0, 20: 0, 21: 1, 22: 1}
+309: 22 variables - Satisfiable: True, Time: 971802 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 0, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 0, 12: 1, 13: 0, 14: 1, 15: 1, 16: 0, 17: 1, 18: 0, 19: 1, 20: 1, 21: 0, 22: 0}
+310: 22 variables - Satisfiable: True, Time: 408555 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1, 9: 1, 10: 0, 11: 0, 12: 1, 13: 0, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 0, 20: 1, 21: 1, 22: 1}
+311: 24 variables - Satisfiable: True, Time: 1293429 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 0, 14: 1, 15: 0, 16: 0, 17: 0, 18: 1, 19: 0, 20: 0, 21: 1, 22: 1, 23: 0, 24: 0}
+312: 24 variables - Satisfiable: True, Time: 269118 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 0, 12: 1, 13: 1, 14: 1, 15: 1, 16: 0, 17: 1, 18: 0, 19: 1, 20: 0, 21: 0, 22: 0, 23: 0, 24: 0}
+313: 24 variables - Satisfiable: True, Time: 103067 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 0, 21: 1, 22: 1, 23: 1, 24: 0}
+314: 24 variables - Satisfiable: True, Time: 99239 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1, 13: 1, 14: 0, 15: 1, 16: 1, 17: 0, 18: 1, 19: 0, 20: 1, 21: 1, 22: 0, 23: 1, 24: 0}
+315: 24 variables - Satisfiable: True, Time: 54991 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 0, 15: 1, 16: 1, 17: 0, 18: 1, 19: 0, 20: 0, 21: 1, 22: 1, 23: 1, 24: 1}
+316: 24 variables - Satisfiable: True, Time: 121628 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 0, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 0, 20: 1, 21: 1, 22: 0, 23: 1, 24: 1}
+317: 24 variables - Satisfiable: True, Time: 416703 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 1, 11: 1, 12: 1, 13: 1, 14: 0, 15: 0, 16: 0, 17: 0, 18: 0, 19: 1, 20: 1, 21: 1, 22: 0, 23: 1, 24: 0}
+318: 24 variables - Satisfiable: True, Time: 26688 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 0, 14: 0, 15: 1, 16: 1, 17: 1, 18: 0, 19: 0, 20: 0, 21: 1, 22: 1, 23: 1, 24: 0}
+319: 24 variables - Satisfiable: True, Time: 42811 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 1, 15: 0, 16: 1, 17: 0, 18: 1, 19: 0, 20: 1, 21: 1, 22: 0, 23: 0, 24: 1}
+320: 24 variables - Satisfiable: True, Time: 130945 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 0, 13: 0, 14: 1, 15: 1, 16: 1, 17: 0, 18: 0, 19: 1, 20: 1, 21: 0, 22: 0, 23: 1, 24: 0}
+321: 4 variables - Satisfiable: True, Time: 21 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1}
+322: 4 variables - Satisfiable: True, Time: 14 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1}
+323: 4 variables - Satisfiable: True, Time: 19 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1}
+324: 4 variables - Satisfiable: True, Time: 33 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1}
+325: 4 variables - Satisfiable: True, Time: 22 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1}
+326: 4 variables - Satisfiable: True, Time: 19 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1}
+327: 4 variables - Satisfiable: True, Time: 16 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1}
+328: 4 variables - Satisfiable: True, Time: 34 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 1}
+329: 4 variables - Satisfiable: True, Time: 26 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 0}
+330: 4 variables - Satisfiable: True, Time: 32 microseconds
+Assignment: {1: 1, 2: 1, 3: 0, 4: 0}
+331: 8 variables - Satisfiable: True, Time: 38 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1}
+332: 8 variables - Satisfiable: True, Time: 38 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1}
+333: 8 variables - Satisfiable: True, Time: 55 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1}
+334: 8 variables - Satisfiable: True, Time: 36 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1}
+335: 8 variables - Satisfiable: True, Time: 41 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1}
+336: 8 variables - Satisfiable: True, Time: 86 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 0}
+337: 8 variables - Satisfiable: True, Time: 69 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 0, 7: 1, 8: 0}
+338: 8 variables - Satisfiable: True, Time: 37 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1}
+339: 8 variables - Satisfiable: True, Time: 54 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 0}
+340: 8 variables - Satisfiable: True, Time: 39 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1}
+341: 12 variables - Satisfiable: True, Time: 539 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 1, 9: 1, 10: 1, 11: 0, 12: 0}
+342: 12 variables - Satisfiable: True, Time: 86 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 0, 12: 1}
+343: 12 variables - Satisfiable: True, Time: 398 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 1, 10: 1, 11: 1, 12: 1}
+344: 12 variables - Satisfiable: True, Time: 101 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 0}
+345: 12 variables - Satisfiable: True, Time: 970 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 0, 9: 0, 10: 0, 11: 1, 12: 1}
+346: 12 variables - Satisfiable: True, Time: 165 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 0, 10: 1, 11: 1, 12: 1}
+347: 12 variables - Satisfiable: True, Time: 77 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0}
+348: 12 variables - Satisfiable: True, Time: 715 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 0, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1}
+349: 12 variables - Satisfiable: True, Time: 166 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 1, 10: 0, 11: 1, 12: 1}
+350: 12 variables - Satisfiable: True, Time: 82 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1}
+351: 16 variables - Satisfiable: True, Time: 272 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1, 13: 1, 14: 1, 15: 1, 16: 0}
+352: 16 variables - Satisfiable: True, Time: 1386 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 1, 12: 1, 13: 1, 14: 0, 15: 1, 16: 0}
+353: 16 variables - Satisfiable: True, Time: 1291 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 1, 12: 1, 13: 1, 14: 1, 15: 0, 16: 0}
+354: 16 variables - Satisfiable: True, Time: 310 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 0, 15: 1, 16: 1}
+355: 16 variables - Satisfiable: True, Time: 433 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 0, 15: 1, 16: 1}
+356: 16 variables - Satisfiable: True, Time: 236 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 1, 15: 0, 16: 1}
+357: 16 variables - Satisfiable: True, Time: 286 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 0, 14: 1, 15: 1, 16: 1}
+358: 16 variables - Satisfiable: True, Time: 1249 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 1, 12: 1, 13: 0, 14: 1, 15: 0, 16: 0}
+359: 16 variables - Satisfiable: True, Time: 184 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 0, 15: 0, 16: 1}
+360: 16 variables - Satisfiable: True, Time: 88 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 0, 16: 1}
+361: 18 variables - Satisfiable: True, Time: 183 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 0, 18: 1}
+362: 18 variables - Satisfiable: True, Time: 534 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 0, 14: 1, 15: 1, 16: 0, 17: 1, 18: 1}
+363: 18 variables - Satisfiable: True, Time: 2115 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1, 13: 0, 14: 1, 15: 0, 16: 1, 17: 1, 18: 1}
+364: 18 variables - Satisfiable: True, Time: 889 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 0, 17: 1, 18: 1}
+365: 18 variables - Satisfiable: True, Time: 3358 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 1, 12: 0, 13: 0, 14: 1, 15: 0, 16: 1, 17: 1, 18: 0}
+366: 18 variables - Satisfiable: True, Time: 2713 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 0, 18: 1}
+367: 18 variables - Satisfiable: True, Time: 1658 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 1, 15: 1, 16: 1, 17: 0, 18: 1}
+368: 18 variables - Satisfiable: True, Time: 2795 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 1, 13: 1, 14: 0, 15: 0, 16: 0, 17: 1, 18: 0}
+369: 18 variables - Satisfiable: True, Time: 5032 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 1, 11: 1, 12: 1, 13: 0, 14: 1, 15: 1, 16: 1, 17: 0, 18: 1}
+370: 18 variables - Satisfiable: True, Time: 100 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1}
+371: 20 variables - Satisfiable: True, Time: 2352 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 1, 15: 1, 16: 0, 17: 1, 18: 1, 19: 0, 20: 1}
+372: 20 variables - Satisfiable: True, Time: 529 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 0, 16: 1, 17: 1, 18: 1, 19: 0, 20: 1}
+373: 20 variables - Satisfiable: True, Time: 119 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 0}
+374: 20 variables - Satisfiable: True, Time: 878 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 0, 16: 1, 17: 1, 18: 0, 19: 1, 20: 1}
+375: 20 variables - Satisfiable: True, Time: 182 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 0, 20: 1}
+376: 20 variables - Satisfiable: True, Time: 17388 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 1, 12: 0, 13: 0, 14: 0, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+377: 20 variables - Satisfiable: True, Time: 179 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 0, 17: 1, 18: 1, 19: 1, 20: 0}
+378: 20 variables - Satisfiable: True, Time: 21854 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 0, 20: 1}
+379: 20 variables - Satisfiable: True, Time: 97818 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 1, 10: 0, 11: 0, 12: 0, 13: 0, 14: 1, 15: 1, 16: 1, 17: 1, 18: 0, 19: 1, 20: 0}
+380: 20 variables - Satisfiable: True, Time: 1627 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 0, 14: 1, 15: 1, 16: 1, 17: 1, 18: 0, 19: 1, 20: 1}
+381: 22 variables - Satisfiable: True, Time: 8537 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 0, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 0, 20: 1, 21: 1, 22: 1}
+382: 22 variables - Satisfiable: True, Time: 23820 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 1, 15: 1, 16: 1, 17: 0, 18: 0, 19: 0, 20: 1, 21: 0, 22: 1}
+383: 22 variables - Satisfiable: True, Time: 69844 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 0, 13: 1, 14: 1, 15: 1, 16: 0, 17: 0, 18: 1, 19: 0, 20: 1, 21: 0, 22: 0}
+384: 22 variables - Satisfiable: True, Time: 158 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 0, 19: 1, 20: 1, 21: 1, 22: 1}
+385: 22 variables - Satisfiable: True, Time: 3449 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 0, 16: 1, 17: 0, 18: 0, 19: 1, 20: 1, 21: 1, 22: 1}
+386: 22 variables - Satisfiable: True, Time: 157 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1, 21: 0, 22: 1}
+387: 22 variables - Satisfiable: True, Time: 477 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 0, 18: 1, 19: 1, 20: 1, 21: 1, 22: 1}
+388: 22 variables - Satisfiable: True, Time: 461 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 0, 19: 1, 20: 0, 21: 1, 22: 1}
+389: 22 variables - Satisfiable: True, Time: 45753 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 0, 13: 0, 14: 1, 15: 1, 16: 1, 17: 1, 18: 0, 19: 1, 20: 0, 21: 1, 22: 1}
+390: 22 variables - Satisfiable: True, Time: 926 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 0, 18: 0, 19: 1, 20: 0, 21: 0, 22: 0}
+391: 24 variables - Satisfiable: True, Time: 239 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1, 21: 0, 22: 1, 23: 0, 24: 1}
+392: 24 variables - Satisfiable: True, Time: 12135 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 0, 16: 1, 17: 1, 18: 0, 19: 1, 20: 0, 21: 0, 22: 0, 23: 1, 24: 1}
+393: 24 variables - Satisfiable: True, Time: 27597 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 0, 15: 1, 16: 0, 17: 1, 18: 0, 19: 0, 20: 0, 21: 1, 22: 1, 23: 0, 24: 0}
+394: 24 variables - Satisfiable: True, Time: 2241 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 0, 18: 1, 19: 0, 20: 0, 21: 1, 22: 0, 23: 1, 24: 0}
+395: 24 variables - Satisfiable: True, Time: 8153 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 0, 15: 1, 16: 1, 17: 1, 18: 0, 19: 1, 20: 1, 21: 0, 22: 1, 23: 1, 24: 1}
+396: 24 variables - Satisfiable: True, Time: 135 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1, 21: 1, 22: 1, 23: 1, 24: 1}
+397: 24 variables - Satisfiable: True, Time: 398 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1, 21: 0, 22: 1, 23: 1, 24: 0}
+398: 24 variables - Satisfiable: True, Time: 182 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1, 21: 0, 22: 1, 23: 1, 24: 0}
+399: 24 variables - Satisfiable: True, Time: 18026 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 0, 16: 1, 17: 0, 18: 1, 19: 0, 20: 0, 21: 0, 22: 0, 23: 0, 24: 1}
+400: 24 variables - Satisfiable: True, Time: 970 microseconds
+Assignment: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 0, 19: 1, 20: 1, 21: 1, 22: 0, 23: 1, 24: 0}
